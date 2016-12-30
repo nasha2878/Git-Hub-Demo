@@ -19,7 +19,7 @@ namespace WinFormsProject
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Changes from Temp Repo ....");
+            MessageBox.Show("Changes from Temp Repo   ....");
         }
     }
 }
